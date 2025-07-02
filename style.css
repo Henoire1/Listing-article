@@ -95,6 +95,7 @@ text-decoration: none;
     align-items: center;
     display: flex;
     justify-items: center;
+    justify-content: center;
 }   
 div>h2 {
     margin-left: 12px;
